@@ -7,9 +7,9 @@
 
 ### Procedures:
 >* First Step: Collect comments from Reddit Community.
-![](https://github.com/16GMCN/Bitcoin-Sentiment-Analysis/blob/master/pic/architecture.png)
-
+![](https://github.com/16GMCN/Bitcoin-Sentiment-Analysis/blob/master/pic/Treelike_Reddit.png)
 >* Second Step: Transform comments into sentiment scores using Lexicons like VADER and ScoialSent.
+![](https://github.com/16GMCN/Bitcoin-Sentiment-Analysis/blob/master/pic/architecture.png)
 
 >*  Third Step: Label the data into four categories
 
