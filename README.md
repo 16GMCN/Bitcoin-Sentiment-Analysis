@@ -1,7 +1,7 @@
 # NLP in Context Computational Models of Social Meaning
-[Paper](https://drive.google.com/file/d/148yOFW1_obxXyP_dUzvuCLlQj6-7ehhI/view?usp=sharing)
 
-### Sentiment Analysis for Bitcoin Prices.
+
+### [Sentiment Analysis for Bitcoin Prices](https://drive.google.com/file/d/148yOFW1_obxXyP_dUzvuCLlQj6-7ehhI/view?usp=sharing)
 
 ### Tools: Keras, Python
 
